@@ -1,2 +1,2 @@
 Contact:
-<foodleapp@icloud.comm>
+<foodleapp@icloud.com>
