@@ -1,7 +1,8 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-logo: assets/IMG_0349.jpeg
+baseurl: /
+logo: https://foodle-app.github.io/docs/assets/IMG_0349.jpeg
 title: Foodle
 description: The home page for Foodle, a shopping list app.
 show_downloads: false
